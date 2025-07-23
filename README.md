@@ -26,6 +26,34 @@ A modern, responsive website for **FS Group of Education**, designed to provide 
 
 ---
 
-## 📁 Folder Structure
 
+---
+
+## 🚀 Deployment
+
+This project is deployed using **Netlify**.  
+You can also host it via GitHub Pages or Vercel.
+
+---
+
+## 📷 Screenshots
+
+*You can insert screenshots here if available*
+
+---
+
+## 🙋‍♂️ Author
+
+**Ompal Yadav**  
+📧 [ompalyadav2235@gmail.com](mailto:ompalyadav2235@gmail.com)  
+🔗 [GitHub Profile](https://github.com/OmpalYadav)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use and modify this project for educational purposes.
+
+---
 
