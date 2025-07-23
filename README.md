@@ -35,13 +35,6 @@ This project is deployed using **Netlify**.
 You can also host it via GitHub Pages or Vercel.
 
 ---
-
-## 📷 Screenshots
-
-*You can insert screenshots here if available*
-
----
-
 ## 🙋‍♂️ Author
 
 **Ompal Yadav**  
